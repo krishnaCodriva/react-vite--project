@@ -15,13 +15,13 @@ The following screenshots provide proof of the tasks completed in this project:
 
 #### 1. Merge conflict detection
 
-![Merge Conflict Proof 1](Screenshot from 2026-04-21 11-01-29.png)
+![Merge Conflict Proof 1](<public/Screenshot from 2026-04-21 11-01-29.png>)
 
 This image demonstrates the initial merge conflict markers and branch diff state.
 
 #### 2. Merge conflict resolution
 
-![Merge Conflict Resolution](Screenshot from 2026-04-21 11-16-39.png)
+![Merge Conflict Resolution](<public/Screenshot from 2026-04-21 11-16-39.png>)
 
 This image demonstrates the resolved merge conflict and the final merged file state.
 
@@ -29,20 +29,20 @@ This image demonstrates the resolved merge conflict and the final merged file st
 
 #### 1. Line-by-line commit task proof #1
 
-![Line Commit Proof 1](Screenshot from 2026-04-28 13-58-44.png)
+![Line Commit Proof 1](<public/Screenshot from 2026-04-28 13-58-44.png>)
 
 This image demonstrates the first line-by-line commit proof and the specific changes made.
 
 #### 2. Line-by-line commit task proof #2
 
-![Line Commit Proof 2](Screenshot from 2026-04-28 13-59-26.png)
+![Line Commit Proof 2](<public/Screenshot from 2026-04-28 13-59-26.png>)
 
 This image demonstrates the second line-by-line commit proof with targeted line updates and verification.
 
 ## Notes
 
 - These images serve as proof of the merge conflict workflow and line-by-line commit tasks.
-- Replace the placeholder SVGs with actual screenshots if you want to submit real capture proof.
+- The screenshots above are the actual uploaded image files in the `public/` folder.
 
 ## React Compiler
 
