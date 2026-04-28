@@ -15,13 +15,13 @@ The following screenshots provide proof of the tasks completed in this project:
 
 #### 1. Line-by-line commit task proof #1
 
-![Line Commit Proof 1](<public/Screenshot from 2026-04-21 11-01-29.png>)
+![Line Commit Proof 1](<public/Screenshot from 2026-04-28 14-11-33.png>)
 
 This image demonstrates the first line-by-line commit proof and the specific changes made.
 
 #### 2. Line-by-line commit task proof #2
 
-![Line Commit Proof 2](<public/Screenshot from 2026-04-21 11-16-39.png>)
+![Line Commit Proof 2](<public/Screenshot from 2026-04-28 14-11-43.png>)
 
 This image demonstrates the second line-by-line commit proof with targeted line updates and verification.
 
