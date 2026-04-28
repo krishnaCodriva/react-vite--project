@@ -37,7 +37,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
-          <p>Your questions, answered</p>
+          <p>Your questions are, answered</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
@@ -48,7 +48,7 @@ function App() {
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
+                Discover more
               </a>
             </li>
           </ul>
