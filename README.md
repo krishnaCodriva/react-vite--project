@@ -2,10 +2,47 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Proof of Tasks Completed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The following screenshots provide proof of the tasks completed in this project:
+
+1. Merge conflict detection and proof
+2. Merge conflict resolution result
+3. Line-by-line commit task proof #1
+4. Line-by-line commit task proof #2
+
+### Merge Conflict Proof
+
+#### 1. Merge conflict detection
+
+![Merge Conflict Proof 1](Screenshot from 2026-04-21 11-01-29.png)
+
+This image demonstrates the initial merge conflict markers and branch diff state.
+
+#### 2. Merge conflict resolution
+
+![Merge Conflict Resolution](Screenshot from 2026-04-21 11-16-39.png)
+
+This image demonstrates the resolved merge conflict and the final merged file state.
+
+### Line-by-Line Commit Tasks
+
+#### 1. Line-by-line commit task proof #1
+
+![Line Commit Proof 1](Screenshot from 2026-04-28 13-58-44.png)
+
+This image demonstrates the first line-by-line commit proof and the specific changes made.
+
+#### 2. Line-by-line commit task proof #2
+
+![Line Commit Proof 2](Screenshot from 2026-04-28 13-59-26.png)
+
+This image demonstrates the second line-by-line commit proof with targeted line updates and verification.
+
+## Notes
+
+- These images serve as proof of the merge conflict workflow and line-by-line commit tasks.
+- Replace the placeholder SVGs with actual screenshots if you want to submit real capture proof.
 
 ## React Compiler
 
